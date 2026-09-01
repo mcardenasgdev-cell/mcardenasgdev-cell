@@ -120,7 +120,7 @@ Explain what the project does, the problem it solves or its main functionality.
 
 <br><br>
 
-<a href="PROJECT_1_URL">View Repository →</a>
+<a href="https://pf.technicq.net/">View Repository →</a>
 
 </td>
 
